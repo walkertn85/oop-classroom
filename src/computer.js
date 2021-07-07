@@ -6,7 +6,7 @@ class Computer {
       this.memory = memory; 
       this.graphics = graphics;
       this.on = on;
-  }
+  };
 
 
 
